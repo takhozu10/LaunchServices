@@ -1,1 +1,3 @@
 # LaunchServices
+
+**configDefaultMail.py** - Configure Default Mail Client to Microsoft Outlook (Change com.microsoft.Outlook for other mail client.)
